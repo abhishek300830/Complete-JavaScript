@@ -29,3 +29,6 @@ const reduce = filteredArray.reduce((prev, curr, idx, array) => {
 });
 
 console.log("reduce ", reduce);
+
+// arrays const
+// it is a good practice to declare array with const
